@@ -1,4 +1,4 @@
-# rujularaut-
+# rujularaut
 
 ## Hey there! I'm Rujula 
 

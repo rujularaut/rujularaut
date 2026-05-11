@@ -3,7 +3,8 @@
 ## Hey there! I'm Rujula 
 
 I'm a **Computer Science student** passionate about building software that solves real problems.
-[Portfolio](https://rujula-portfolio.rujularaut.workers.dev) • [LinkedIn]() • [Email](rujula.raut@gmail.com)
+
+[Portfolio](https://rujula-portfolio.rujularaut.workers.dev) • [LinkedIn](https://www.linkedin.com/in/rujula-raut) • [Email](mailto:rujula.raut@gmail.com)
 
 I enjoy working on:
 - Clean and creative frontend interfaces
